@@ -2,3 +2,7 @@ git status
 git add archivo
 git commit -m "comentario"
 git push
+
+
+git config --global user.name "ShivramGA"
+git config --global user.email shivramga@gamil.com
