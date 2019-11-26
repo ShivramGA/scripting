@@ -1,0 +1,14 @@
+dn: uid=piloto1,ou=pilotos,dc1=korriban,dc2=sith
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: piloto1
+sn: piloto1
+uid: piloto1
+uidnumber: 1001
+gidnumber: 100
+userPassword: si2
+homeDirectory: /home/piloto1
+loginShell: /bin/bash
+gecos: piloto1
+mail: piloto1@korriban.sith
